@@ -1,6 +1,6 @@
 
 {
-  "name": "jamesjinnz/craft_kint",
+  "name": "jamesjinnz/kint",
     "license": "MIT",
     "description": "craftcms plugin for craft kint",
     "type": "craft-plugin",
