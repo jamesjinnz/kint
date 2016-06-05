@@ -1,5 +1,11 @@
+
 {
-  "require": {
-      "raveren/kint": "1.0.10"
-  }
+  "name": "jamesjinnz/craft_kint",
+    "license": "MIT",
+    "description": "craftcms plugin for craft kint",
+    "type": "craft-plugin",
+    "require" : {
+        "composer/installers" : "~1.0",
+         "raveren/kint": "1.0.10"
+    }
 }
